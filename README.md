@@ -2,9 +2,7 @@
 A depository Contains Homework Solutions of AE305 Numerical Methods in Aerospace Engineering course of METU
 
 
-## Homework 1 - Solution of ODE's
-
-Solution of an ODE using: 
+a## Homework 1 - Solution of ODE's
 
 - Explicit Euler Method
 - Heun's Method 
